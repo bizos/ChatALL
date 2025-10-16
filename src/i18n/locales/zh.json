@@ -283,6 +283,13 @@
     "GLM-3": "GLM-3",
     "GLM-4": "GLM-4"
   },
+  "chatGlm4": {
+    "name": "智谱 GLM-4 API",
+    "apiKey": "API 密钥",
+    "enterApiKey": "请输入你的智谱 API 密钥",
+    "getApiKey": "获取 API 密钥",
+    "goToBigModel": "前往智谱 AI 开放平台"
+  },
   "pi": {
     "name": "Pi",
     "waitPiIntro": "请点击下面的网站链接，等待Pi介绍完成后，然后关闭窗口。"

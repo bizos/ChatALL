@@ -283,6 +283,13 @@
     "GLM-3": "GLM-3",
     "GLM-4": "GLM-4"
   },
+  "chatGlm4": {
+    "name": "ChatGLM-4 API",
+    "apiKey": "API Key",
+    "enterApiKey": "Enter your Zhipu AI API Key",
+    "getApiKey": "Get API Key",
+    "goToBigModel": "Go to Zhipu AI Platform"
+  },
   "pi": {
     "name": "Pi",
     "waitPiIntro": "Please click the chatbot website link below and wait for the Pi introduction to finish, then close the window."

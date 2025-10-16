@@ -121,6 +121,7 @@ import Qihoo360AIBrainBotSettings from "./BotSettings/Qihoo360AIBrainBotSettings
 import CharacterAIBotSettings from "./BotSettings/CharacterAIBotSettings.vue";
 import ClaudeAIBotSettings from "./BotSettings/ClaudeAIBotSettings.vue";
 import ChatGLMBotSettings from "./BotSettings/ChatGLMBotSettings.vue";
+import ChatGLM4BotSettings from "./BotSettings/ChatGLM4BotSettings.vue";
 import CohereAPIBotSettings from "./BotSettings/CohereAPIBotSettings.vue";
 import KimiBotSettings from "./BotSettings/KimiBotSettings.vue";
 
@@ -146,6 +147,7 @@ const botSettings = [
   { brand: "bingChat", component: BingChatBotSettings },
   { brand: "characterAI", component: CharacterAIBotSettings },
   { brand: "chatGlm", component: ChatGLMBotSettings },
+  { brand: "chatGlm4", component: ChatGLM4BotSettings },
   { brand: "chatGpt", component: ChatGPTBotSettings },
   { brand: "claudeAi", component: ClaudeAIBotSettings },
   { brand: "claudeApi", component: ClaudeAPIBotSettings },
